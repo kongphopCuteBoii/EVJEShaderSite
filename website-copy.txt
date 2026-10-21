@@ -1,0 +1,88 @@
+ENHANCED VISUALS SHADER — WEBSITE COPY
+======================================
+Editing reference for visible text in index.html. Changes here must also be applied to index.html.
+
+HEADER
+------
+Enhanced Visuals Shader
+Crystaline
+Gallery
+Comparison
+Cerulean SOON
+Download ↗
+
+HERO
+----
+Java Edition Shader
+Your world,
+reimagined.
+Scroll to explore ↓
+
+THE PROJECT
+-----------
+01 — The project
+What you see
+is what you feel.
+Enhanced Visuals Java Edition Shaders, better known as Crystaline, is a Minecraft shader project born from my curiosity about real-time graphics. It asks whether realism always has to be the goal, or whether a shader can be artistic without shouting for attention.
+This is an ongoing personal project, built through experiments, tested in-game, and refined one rendering problem at a time. Performance is a requirement, not a bonus.
+Wander through the gallery ↗
+
+GALLERY
+-------
+02 — Field notes
+Breathtaking
+sights.
+A few scenes from the current build. Every image is an in-game capture; the shader itself is still a work in progress.
+01 Jungle shore
+02 Canopy from above
+03 Last light
+04 Village by the water
+
+COMPARISON
+----------
+03 — Side by side
+Same place.
+Different light.
+Drag the divider to compare the same scene with Crystaline and vanilla Minecraft.
+Crystaline
+Vanilla
+Jungle shore · Same camera position
+Crystaline — Village by the water
+Vanilla — Same scene for reference
+
+BEHIND THE IMAGE
+----------------
+04 — Behind the image
+Looks are one thing.
+Making them run is another.
+Crystaline is built from scratch, not forked from an existing shader pack. It is a stubborn experiment in seeing how far rasterization can go, even on limited hardware. Real-time rendering demands care: a seemingly simple visual effect can bring performance to its knees if it is implemented without thought. Those constraints are exactly what Crystaline is built to explore.
+For now, this site focuses on what I can show: the scenes above and the current work-in-progress build. More detailed technical notes will come with future releases.
+
+CERULEAN
+--------
+05 — Another edition
+Bedrock Edition
+Cerulean.
+Cerulean is the planned Bedrock Edition counterpart to Crystaline. It is still in development and is not available to download yet.
+Coming soon
+
+DOWNLOAD
+--------
+06 — When it's ready
+Want to try
+Crystaline?
+Download links and compatibility details will be added when the first public release is ready.
+Public release · Not available yet
+Visit the GitHub profile ↗
+
+FOOTER
+------
+Enhanced Visuals Shader
+An independent project, not affiliated with Mojang or Microsoft.
+Back to top ↑
+© 2026
+
+IMAGE VIEWER
+------------
+Close image: ×
+Captions are set per image in index.html, based on the scene shown.

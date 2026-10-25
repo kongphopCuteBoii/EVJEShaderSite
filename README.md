@@ -1,25 +1,24 @@
 # Enhanced Visuals Shader
 
-A small static website for **Crystaline**, a Minecraft Java Edition shader project, with a coming-soon section for **Cerulean**, its planned Bedrock Edition counterpart.
+A static showcase website for **Crystaline**, an independent Minecraft Java Edition shader project. It presents in-game captures, side-by-side comparisons with vanilla Minecraft, and the artistic direction behind the project.
 
-## Local preview
+## Goals
 
-Open `index.html` in a browser, or run a local static server from the repository root:
+- Showing how lighting, color, and atmosphere can change the feeling of a scene.
+- Presenting real in-game captures rather than promising unverified results.
+- Keeping the project showcase lightweight and accessible.
 
-```sh
-python3 -m http.server 8000
-```
+## Development
 
-Then visit `http://localhost:8000`.
+The site is built with HTML, CSS, and JavaScript, with a gallery, image viewer, and interactive comparison slider. It is deployed through GitHub Pages.
 
-## Deploy with GitHub Pages
+- **Platform:** Static website
+- **Technology:** HTML, CSS, JavaScript
+- **Showcase:** Crystaline for Minecraft Java Edition
+- **Project status:** Ongoing
 
-The workflow in `.github/workflows/pages.yml` deploys the repository root to GitHub Pages whenever you push to `main`, or when you manually run the workflow. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**.
+Crystaline is still a work in progress and is not yet available as a public download. **Cerulean**, the planned Bedrock Edition counterpart, is also not available yet.
 
-## Assets and copy
+---
 
-- In-game captures live in `assets/images/`.
-- The visible website copy is collected in `website-copy.txt` as an editing reference. Editing that text file alone does not update the page; apply final wording to `index.html` as well.
-- The comparison slider uses the supplied matching jungle-shore screenshots. The village pair is shown side-by-side for reference.
-
-The site intentionally does not claim an available public shader download or unverified compatibility details.
+*An independent project, not affiliated with Mojang or Microsoft.*
